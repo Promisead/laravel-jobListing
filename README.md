@@ -7,6 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+A complete Laravel CRUD project with full functionality. A Job Listing website with User Authorization and Authentication, Protected ROutes, Proper Error handling and validation with ApineJs. Highlight of the Project is with User table relationship on the SQL database where users only have access modify or update their own contents.
+
+
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
